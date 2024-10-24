@@ -13,6 +13,7 @@ you will have to configure your modirinth token in a .env file
 you can configure the mods that it will download in the downloader.py file (the variable name is MODS)
 
 **installing dependencies:**
+
 `python -m pip install -r requirements.txt`
 
 **usage:**
